@@ -1,6 +1,8 @@
 /*************************************************
 
  * Public Constants
+ * Taken from  https://www.arduino.cc/en/Tutorial/Tone by Tom Igoe
+ * Accessed 23 June 2024, last modified 30 Aug 2011
 
  *************************************************/
 
