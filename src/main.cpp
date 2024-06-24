@@ -8,7 +8,7 @@
 #define LED_TOP PA1
 #define LED_BOT PA2
 #define eighth 200
-#define TIME_WAIT 30000
+#define TIME_WAIT 90000
 
 // GLOBALS //
 unsigned long startTime;
